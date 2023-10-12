@@ -54,7 +54,7 @@ const HomeM = () => {
             </div>
           </div>
           {/* <Blobprofile /> */}
-          <img src='/img/Home2.webp' alt='Natasha Smith' className='home__img invisible' />
+          <img src='/img/home2.webp' alt='Natasha Smith' className='home__img invisible' />
         </div>
       </section>
       <Footer />
